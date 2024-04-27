@@ -1,6 +1,6 @@
 # TAD-Vetor
 Tipo Abstrato de Dados para manipular uma sequência de números inteiros.
-- Os números podem se repetir no conjunto
+- Os números podem se repetir no conjunto.
 - A sequência em que os números são inseridos precisa ser preservada.
 
 # Operações
