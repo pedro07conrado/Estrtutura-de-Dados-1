@@ -1,4 +1,4 @@
-#include "tad_vetor.h"
+#include "tad_vector.h"
 #include <string.h>
 
 #define TAM 10
